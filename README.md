@@ -45,3 +45,4 @@ Next step
   F --> G(Offer test & waitlist 150–200)
   G --> H(Drop 001 — 100 pcs)
   H --> I(Run #2 + seed round by mid-2026)
+```
