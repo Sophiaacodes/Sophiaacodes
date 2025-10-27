@@ -35,7 +35,7 @@ function businessBooming () {
 }
 businessBooming();
 ```
-###Next step
+### Next step
 ```mermaid
   graph LR
   A["Breadboard MVP ✅"] --> B["Program ESP32"]
