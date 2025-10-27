@@ -7,9 +7,9 @@
 
 <!-- Brand colors: red / black / gold -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-SleepTech-red" />
+  <img src="https://img.shields.io/badge/Focus-SleepTech-#800000" />
   <img src="https://img.shields.io/badge/Discipline-Design%20%E2%80%A2%20Code%20%E2%80%A2%20Hardware-black" />
-  <img src="https://img.shields.io/badge/Edition-Limited%20100-gold" />
+  <img src="https://img.shields.io/badge/Edition-Limited%20100-#ecd453" />
 </p>
 
 <!-- SEO style categories -->
