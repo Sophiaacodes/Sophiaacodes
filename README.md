@@ -9,7 +9,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-SleepTech-maroon" />
   <img src="https://img.shields.io/badge/Discipline-Design%20%E2%80%A2%20Code%20%E2%80%A2%20Hardware-black" />
-  <img src="https://img.shields.io/badge/Edition-Limited%20100-metallic yellow" />
+  <img src="https://img.shields.io/badge/Edition-Limited%20100-yellow" />
 </p>
 
 <!-- SEO style categories -->
