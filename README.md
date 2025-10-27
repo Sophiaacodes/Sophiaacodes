@@ -35,7 +35,8 @@ function businessBooming () {
 }
 businessBooming();
 ```
-graph LR
+Next step
+```mermaid
   A(Breadboard MVP ✅) --> B(Program ESP32)
   B --> C(Sunrise/Sunset tests)
   C --> D(3D-printed shell)
