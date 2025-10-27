@@ -55,7 +55,7 @@ businessBooming();
 ### Early access / contact
 
 <!-- 🔗 Sostituisci FORM_URL con il link reale del tuo form -->
-<p align="center" width=80%>
+<p align="center" width=60%>
   <a href="https://lullaby.kit.com/form?utm_source=github&utm_medium=readme&utm_campaign=drop001_waitlist">
     <img alt="Early Access – Lullaby Drop 001" src="https://img.shields.io/badge/Early%20Access-Lullaby%20Drop%20001-%23D7263D?style=for-the-badge">
   </a>
