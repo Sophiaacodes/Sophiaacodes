@@ -60,10 +60,10 @@ businessBooming();
     <img alt="Early Access – Lullaby Drop 001" src="https://img.shields.io/badge/Early%20Access-Lullaby%20Drop%20001-%23D7263D?style=for-the-badge">
   </a>
   <a href="https://www.instagram.com/sophiasdiares/">
-    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-@ig_handle_here-black?style=for-the-badge">
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-@sophiasdiares-black?style=for-the-badge">
   </a>
   <a href="https://www.tiktok.com/@sophiasdiares">
-    <img alt="TikTok" src="https://img.shields.io/badge/TikTok-@tiktok_handle_here-black?style=for-the-badge">
+    <img alt="TikTok" src="https://img.shields.io/badge/TikTok-@sophiasdiares-black?style=for-the-badge">
   </a>
   <a href="mailto:sofia.vanotti@gmail.com?subject=Lullaby%20—%20Drop%20001&body=Hi%20Sofia,%20I%E2%80%99m%20interested%20in%20Lullaby.">
     <img alt="Email" src="https://img.shields.io/badge/Email-hello%40lullaby.example-%23D4AF37?style=for-the-badge">
