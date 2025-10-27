@@ -48,8 +48,5 @@ businessBooming();
   H --> I["Run #2 + seed round by mid-2026"]
 
 
-graph LR
-  P0(("0%")) --> P1(("25%")) --> P2(("50%")) --> P3(("75%")) --> P4(("100%"))
-  click P2 "https://your-waitlist-link" "Join the 100"
 
 ```
