@@ -55,20 +55,8 @@ businessBooming();
 ### Early access / contact
 
 <!-- 🔗 Sostituisci FORM_URL con il link reale del tuo form -->
-<p align="center" max-width= 100%>
-  <a href="https://lullaby.kit.com/form?utm_source=github&utm_medium=readme&utm_campaign=drop001_waitlist" >
-    <img alt="Early Access – Lullaby Drop 001" src="https://img.shields.io/badge/Early%20Access-Lullaby%20Drop%20001-%23D7263D?style=for-the-badge">
-  </a>
-  <a href="https://www.instagram.com/sophiasdiares/" >
-    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-@sophiasdiares-black?style=for-the-badge">
-  </a>
-  <a href="https://www.tiktok.com/@sophiasdiares" >
-    <img alt="TikTok" src="https://img.shields.io/badge/TikTok-@sophiasdiares-black?style=for-the-badge">
-  </a>
-  <a href="mailto:sofia.vanotti@gmail.com?subject=Lullaby%20—%20Drop%20001&body=Hi%20Sofia,%20I%E2%80%99m%20interested%20in%20Lullaby.">
-    <img alt="Email" src="https://img.shields.io/badge/Email-sofia.vanotti@gmail.com-%23D4AF37?style=for-the-badge">
-  </a>
-</p>
+<p align="center"><a href="https://lullaby.kit.com/form?utm_source=github&utm_medium=readme&utm_campaign=drop001_waitlist"><img alt="Early Access" src="https://img.shields.io/badge/Early%20Access-Lullaby-%23D7263D?style=flat-square"></a>&nbsp;<a href="https://www.instagram.com/sophiasdiares/"><img alt="Instagram" src="https://img.shields.io/badge/IG-@sophiasdiares-black?style=flat-square"></a>&nbsp;<a href="https://www.tiktok.com/@sophiasdiares"><img alt="TikTok" src="https://img.shields.io/badge/TikTok-@sophiasdiares-black?style=flat-square"></a>&nbsp;<a href="mailto:sofia.vanotti@gmail.com?subject=Lullaby%20—%20Drop%20001&body=Hi%20Sofia,%20I%E2%80%99m%20interested%20in%20Lullaby."><img alt="Email" src="https://img.shields.io/badge/Email-sofia.vanotti%40gmail.com-%23D4AF37?style=flat-square"></a></p>
+
 
 **No waitlist yet?** DM **“Lullaby”** on IG/TikTok and I’ll notify you when **Drop 001 (100 units)** opens.
 
