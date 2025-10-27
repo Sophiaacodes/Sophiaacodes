@@ -66,7 +66,7 @@ businessBooming();
     <img alt="TikTok" src="https://img.shields.io/badge/TikTok-@sophiasdiares-black?style=for-the-badge">
   </a>
   <a href="mailto:sofia.vanotti@gmail.com?subject=Lullaby%20—%20Drop%20001&body=Hi%20Sofia,%20I%E2%80%99m%20interested%20in%20Lullaby.">
-    <img alt="Email" src="https://img.shields.io/badge/Email-hello%40lullaby.example-%23D4AF37?style=for-the-badge">
+    <img alt="Email" src="https://img.shields.io/badge/Email-sofia.vanotti@gmail.com-%23D4AF37?style=for-the-badge">
   </a>
 </p>
 
