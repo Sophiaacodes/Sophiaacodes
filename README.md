@@ -34,7 +34,7 @@ function businessBooming () {
   console.log(output);
 }
 businessBooming();
-
+```
 graph LR
   A(Breadboard MVP ✅) --> B(Program ESP32)
   B --> C(Sunrise/Sunset tests)
