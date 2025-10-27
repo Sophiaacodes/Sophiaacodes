@@ -34,3 +34,13 @@ function businessBooming () {
   console.log(output);
 }
 businessBooming();
+
+graph LR
+  A(Breadboard MVP ✅) --> B(Program ESP32)
+  B --> C(Sunrise/Sunset tests)
+  C --> D(3D-printed shell)
+  D --> E(PCB v1)
+  E --> F(Mobile app MVP)
+  F --> G(Offer test & waitlist 150–200)
+  G --> H(Drop 001 — 100 pcs)
+  H --> I(Run #2 + seed round by mid-2026)
